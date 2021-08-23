@@ -1,0 +1,25 @@
+
+.main{
+
+        width: 100%;
+        margin: 15px 10px;
+        padding: 0 10px;
+        text-align: center;
+        background-color: green;
+        box-shadow: 0 4px 8px rgba(0.2,0.4,6.0,0.8);
+        display: flex;
+        align-content: center;
+        justify-content: center;
+        flex-direction:column;
+    
+}
+h2{
+color: black;
+
+}
+#btn{
+        color:blue;
+}
+body{
+        background-color:maroon;
+}
